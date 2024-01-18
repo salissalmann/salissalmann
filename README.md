@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salis Bin Salman</h1>
 <h3 align="center">Full Stack Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/salissalmann&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/salissalmann" /> </p>
-
 
 - 🔭 I’m currently working at [PreMed.PK](https://premed.pk/)
 - 👯 I’m looking to collaborate on **DevOps and NextJs Projects**
@@ -45,12 +43,12 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=salissalmann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=salissalmann&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=salissalmann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=salissalmann&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=salissalmann&theme=great-gatsby&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salissalmann&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=salissalmann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=salissalmann&theme=great-gatsby&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=salissalmann&icon=0&color=0)](https://visitcount.itsvg.in)
