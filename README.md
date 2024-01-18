@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/salissalmann&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/salissalmann" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/salissalmann&theme=nord" alt="https://github.com/salissalmann" /></a> </p>
 
 - 🔭 I’m currently working at [PreMed.PK](https://premed.pk/)
 - 👯 I’m looking to collaborate on **DevOps and NextJs Projects**
@@ -45,10 +44,14 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/salissalmann&show_icons=true&locale=en&theme=" alt="https://github.com/salissalmann" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=salissalmann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=salissalmann&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=salissalmann&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/salissalmann&theme=dark" alt="https://github.com/salissalmann" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=salissalmann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/salissalmann&theme=react"/>
+---
+[![](https://visitcount.itsvg.in/api?id=salissalmann&icon=0&color=0)](https://visitcount.itsvg.in)
+
